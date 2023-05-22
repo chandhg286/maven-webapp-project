@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello World updaterd maven lifecycle using with jenkins!</h2>
+<h2>Hello World from jenkins!</h2>
 </body>
 </html>
